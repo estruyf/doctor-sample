@@ -25,3 +25,12 @@ If you are using `yarn`, you can do it as follows:
 ```
 yarn global add @valo/doctor
 ```
+
+## Navigation
+
+- [Home](../home)
+- [Documentation](./documentation)
+  - [Options](./options)
+  - [Installation](.)
+  - [Page Creation](./page-creation)
+  - [Commands](./commands)

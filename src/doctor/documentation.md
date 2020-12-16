@@ -22,3 +22,12 @@ As we understand that it is not the best experience for developers to write docu
 `Doctor` is a bit different, as instead of creating HTML files, it makes SharePoint pages instead. 
 
 Under the hood, it makes use of the [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/).
+
+## Navigation
+
+- [Home](../home)
+- [Documentation](.)
+  - [Options](./options)
+  - [Installation](./installation)
+  - [Page Creation](./page-creation)
+  - [Commands](./commands)

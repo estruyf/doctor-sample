@@ -47,3 +47,12 @@ If you want to manually pass your arguments, you can do this as follows:
 ```sh
 doctor publish --url https://<tenant>.sharepoint.com/sites/<documentation>
 ```
+
+## Navigation
+
+- [Home](../home)
+- [Documentation](./documentation)
+  - [Options](./options)
+  - [Installation](./installation)
+  - [Page Creation](./page-creation)
+  - [Commands](.)

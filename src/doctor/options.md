@@ -82,3 +82,12 @@ You can also define a static navigation structure in the `doctor.json` file. Exa
 The menu property can contain a `QuickLaunch` and/or `TopNavigationBar` elment with their corresponding static navigation links under the `items` property. More information about navigation items can be found in the [menu section](#Menu).
 
 > **Important**: If you specify arguments during command execution, they will be used instead of the values defined in the `doctor.json` file.
+
+## Navigation
+
+- [Home](../home)
+- [Documentation](./documentation)
+  - [Options](.)
+  - [Installation](./installation)
+  - [Page Creation](./page-creation)
+  - [Commands](./commands)

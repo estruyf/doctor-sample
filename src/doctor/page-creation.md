@@ -22,15 +22,15 @@ title: <title>
 Your article content starts here.
 ```
 
-- **Title**: `string` - The title of the page.
+- **title**: `string` - The title of the page.
 
 > **Info**: Front Matter is the page its metadata.
 
 Optional Front Matter properties are:
 
-- **Slug**: `string` - If a slug is not defined, the title will be used. You can add the slug with our without `.aspx` file extension. The tool will automatically add it.
-- **Draft**: `boolean` - defines if you want to publish the article during the publishing phase.
-- **Menu**: `Menu`- defines where the page gets added to the navigation structure. Check: [menu section](#Menu).
+- **slug**: `string` - If a slug is not defined, the title will be used. You can add the slug with our without `.aspx` file extension. The tool will automatically add it.
+- **draft**: `boolean` - defines if you want to publish the article during the publishing phase.
+- **menu**: `Menu`- defines where the page gets added to the navigation structure. Check: [menu section](#Menu).
 
 ### Menu
 
@@ -102,3 +102,12 @@ menu:
 
 Write here the Doctor page content.
 ```
+
+## Navigation
+
+- [Home](../home)
+- [Documentation](./documentation)
+  - [Options](./options)
+  - [Installation](./installation)
+  - [Page Creation](.)
+  - [Commands](./commands)
