@@ -9,7 +9,7 @@ menu:
     weight: 1
 ---
 
-![Doctor](./assets/valo-doctor.svg)
+![Doctor](./assets/valo-doctor.png)
 
 ## The static site generator for SharePoint
 
