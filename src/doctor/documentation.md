@@ -2,6 +2,7 @@
 title: Doctor Documenation
 slug: doctor/documentation.aspx
 draft: false
+layout: Home
 
 menu:
   QuickLaunch:

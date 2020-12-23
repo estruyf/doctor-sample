@@ -2,6 +2,7 @@
 title: Home
 slug: home.aspx
 draft: false
+layout: Home
 
 menu:
   QuickLaunch:
