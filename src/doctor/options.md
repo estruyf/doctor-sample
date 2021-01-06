@@ -3,6 +3,8 @@ title: Options
 slug: doctor/options.aspx
 draft: false
 
+comments: true
+
 menu:
   QuickLaunch:
     id: options

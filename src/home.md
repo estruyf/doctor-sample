@@ -4,6 +4,8 @@ slug: home.aspx
 draft: false
 layout: Home
 
+comments: true
+
 menu:
   QuickLaunch:
     id: Home

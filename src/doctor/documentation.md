@@ -4,6 +4,8 @@ slug: doctor/documentation.aspx
 draft: false
 layout: Home
 
+comments: false
+
 menu:
   QuickLaunch:
     name: Documenation
