@@ -1,6 +1,5 @@
 ---
 title: Page creation
-slug: doctor/page-creation.aspx
 draft: false
 
 menu:
@@ -28,9 +27,13 @@ Your article content starts here.
 
 Optional Front Matter properties are:
 
-- **slug**: `string` - If a slug is not defined, the title will be used. You can add the slug with our without `.aspx` file extension. The tool will automatically add it.
+- **slug**: `string` - If a slug is not defined, the title and current folder struture will be used. You can add the slug with our without `.aspx` file extension. The tool will automatically add it.
 - **draft**: `boolean` - defines if you want to publish the article during the publishing phase.
+- **comments**: `boolean` - with this setting you can enable/disable page commenting. By default this is disabled.
+- **layout**: `Article` | `Home` - defines which page layout you want to use. Default layout type is `Article`.
 - **menu**: `Menu`- defines where the page gets added to the navigation structure. Check: [menu section](#Menu).
+
+When you want to create page to page links, you can provide the relative path from the current markdown file to the other markdown file (with or without the `.md` extension).
 
 ### Menu
 
@@ -39,10 +42,13 @@ The menu property allows you to create a navigation structure for you static con
 - menu
   - `QuickLaunch` OR `TopNavigationBar` - Default is `QuickLaunch`
     - **id**: `string` (required) - Navigation id. This can be used to create a hierarchy in your navigation.
+    - **name**: `string` (optional) - When this property is defined, it will be used for the navigation item title, otherwise the page title will be used.
     - **weight**: `number` (optional) - The weight of the navigation item. If you want to have it first or last.
     - **parent**: `string` (optional) - Defines the hierarchy of you page in the menu. If not provided, the items will be added to the root of the navigation. When defined, it should contain the `id` value of the parent page. You can also add multi-level navigation like: `<parent-id>/<sub-parent-id>`.
 
-> **Important**: During the publishing process, the navigation will be re-created each time.
+> **Important 1**: During the publishing process, the navigation will be re-created each time.
+
+> **Important 2**: When using `QuickLaunch` you can only have three levels of navigation: `Root/sub/sub-sub`.
 
 #### Example 1
 

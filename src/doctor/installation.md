@@ -26,6 +26,8 @@ If you are using `yarn`, you can do it as follows:
 yarn global add @valo/doctor
 ```
 
+To quickly get started, we provided a [sample repository](https://github.com/ValoIntranet/doctor-sample) which allows you to test out all the functionalities of `Doctor`.
+
 ## Navigation
 
 - [Home](../home)

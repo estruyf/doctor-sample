@@ -1,6 +1,5 @@
 ---
 title: Options
-slug: doctor/options.aspx
 draft: false
 
 comments: true
