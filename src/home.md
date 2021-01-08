@@ -2,9 +2,18 @@
 title: Home
 slug: home.aspx
 draft: false
-layout: Home
+layout: Article
 
 comments: true
+
+header:
+  type: Custom
+  image: './assets/valo-doctor.png'
+  translateX: 55.23
+  translateY: 13.23
+  showTopicHeader: true
+  topicHeader: "@valo/doctor"
+  showPublishDate: true
 
 menu:
   QuickLaunch:

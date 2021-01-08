@@ -22,7 +22,9 @@ doctor version
 
 ### Init
 
-This command creates the initial folder structure for your documentation project (Check [#Options](#Options) to see which arguments you can pass to the command).
+This command creates the initial folder structure for your documentation project. 
+
+> Check [#Options](#Options) to see which arguments you can pass to the command.
 
 #### Examples
 
