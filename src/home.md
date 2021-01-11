@@ -3,6 +3,7 @@ title: Home
 slug: home.aspx
 draft: false
 layout: Article
+description: "The Valo Doctor documentation homepage"
 
 comments: true
 
@@ -12,7 +13,7 @@ header:
   translateX: 55.23
   translateY: 13.23
   showTopicHeader: true
-  topicHeader: "@valo/doctor"
+  topicHeader: "Valo Doctor"
   showPublishDate: true
 
 menu:
