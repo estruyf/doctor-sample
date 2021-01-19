@@ -1,9 +1,10 @@
 ---
 title: Home
 slug: home.aspx
-draft: false
 layout: Article
 description: "The Valo Doctor documentation homepage"
+
+author: 5
 
 comments: true
 
