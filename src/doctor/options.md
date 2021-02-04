@@ -1,8 +1,10 @@
 ---
 title: Options
+description: Command options
 draft: false
 
 comments: true
+template: PageTemplate
 
 menu:
   QuickLaunch:
