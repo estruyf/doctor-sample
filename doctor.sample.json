@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/ValoIntranet/doctor/dev/schema/1.0.0.json",
+  "$schema": "https://raw.githubusercontent.com/estruyf/doctor/dev/schema/1.1.0.json",
   "folder": "./src",
   "url": "https://<tenant>.sharepoint.com/sites/<site>",
   "library": "Shared Documents",

@@ -25,7 +25,7 @@ menu:
 
 <p style="text-align:center"><img style="height:200px" src="./assets/doctor.png" alt="Doctor" /></p>
 
-## Maintain your documenation on SharePoint without pain
+## The static site generator for SharePoint
 
 Welcome to the static page created by `Doctor`!
 

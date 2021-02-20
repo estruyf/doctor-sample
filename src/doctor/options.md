@@ -3,6 +3,10 @@ title: Options
 description: Command options
 draft: false
 
+metadata:
+  Category: "Choice 3"
+  SingleLineText: "Choice 3"
+
 comments: true
 template: PageTemplate
 
