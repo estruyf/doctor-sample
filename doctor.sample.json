@@ -14,7 +14,8 @@
         "id": "doctor",
         "name": "Doctor",
         "url": ""
-      }]
+      }],
+      "weight": 2
     }
   }
 }

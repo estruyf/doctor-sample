@@ -4,7 +4,7 @@ slug: tests/shortcodes.aspx
 
 menu:
   QuickLaunch:
-    id: special-characters
+    id: shortcodes
     parent: tests
 ---
 
@@ -13,10 +13,14 @@ menu:
 
 ## Icon
 
-<icon name="Share" />
+<icon name="ic_fluent_access_time_24_filled" />
+
+<icon name="access_time_24_regular" />
 
 ```html
-<icon name="Share" />
+<icon name="ic_fluent_access_time_24_filled" />
+
+<icon name="access_time_24_regular" />
 ```
 
 ## Callout
