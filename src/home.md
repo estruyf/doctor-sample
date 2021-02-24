@@ -23,7 +23,7 @@ menu:
     weight: 1
 ---
 
-<p style="text-align:center"><img style="height:200px" src="./assets/doctor.png" alt="Doctor" /></p>
+<p id="logo" style="text-align:center"><img style="height:200px" src="./assets/doctor.png" alt="Doctor" /></p>
 
 ## Maintain your documenation on SharePoint without pain
 

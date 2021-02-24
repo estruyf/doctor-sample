@@ -13,15 +13,27 @@ menu:
 
 ## Icon
 
-<icon name="ic_fluent_access_time_24_filled" />
+<icon name="ic_fluent_settings_16_regular" />
 
-<icon name="access_time_24_regular" />
+<icon name="ic_fluent_settings_20_regular" />
+
+<icon name="settings_24_regular" />
+
+<icon name="settings_28_regular" />
+
+The shortcode snippets look like this:
 
 ```html
-<icon name="ic_fluent_access_time_24_filled" />
+<icon name="ic_fluent_settings_16_regular" />
 
-<icon name="access_time_24_regular" />
+<icon name="ic_fluent_settings_20_regular" />
+
+<icon name="settings_24_regular" />
+
+<icon name="settings_28_regular" />
 ```
+
+<callout type="note">You can find all the icons on the following [icons list](https://github.com/microsoft/fluentui-system-icons/blob/master/icons.md) page. Use the names you can find in the **Android** column.</callout>
 
 ## Callout
 
@@ -36,6 +48,8 @@ menu:
 <callout type="danger">The danger content</callout>
 
 <callout type="tip" title="Override the title">Tip content with a custom title</callout>
+
+The shortcode snippets look like this:
 
 ```html
 <callout type="note">The note content</callout>

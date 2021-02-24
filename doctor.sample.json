@@ -8,14 +8,34 @@
   "username": "<username>",
   "password": "<password>",
 
+  "markdown": {
+    "allowHtml": true,
+    "theme": "Light"
+  },
+
+  "siteDesign": {
+    "logo": "./src/assets/doctor.png",
+    "theme": "Red",
+    "chrome": {
+      "headerLayout": "Compact",
+      "headerEmphasis": "Dark"
+    }
+  },
+
   "menu": {
     "QuickLaunch": {
       "items": [{
         "id": "doctor",
         "name": "Doctor",
-        "url": ""
-      }],
-      "weight": 2
+        "url": "",
+        "weight": 2
+      },
+      {
+        "id": "tests",
+        "name": "Test pages",
+        "url": "",
+        "weight": 3
+      }]
     }
   }
 }
