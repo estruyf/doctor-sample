@@ -10,7 +10,8 @@
 
   "markdown": {
     "allowHtml": true,
-    "theme": "Light"
+    "theme": "Light",
+    "shortcodesFolder": "./shortcodes"
   },
 
   "siteDesign": {
