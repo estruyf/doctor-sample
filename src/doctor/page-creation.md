@@ -13,6 +13,8 @@ menu:
     parent: doctor/documentation
 ---
 
+## Page creation
+
 You start by creating pages as Markdown files (`.md`) in the source folder (`./src` is the default, but you can change this). The markdown pages should contain the following front matter.
 
 ```
@@ -119,3 +121,7 @@ Write here the Doctor page content.
   - [Installation](./installation)
   - [Page Creation](.)
   - [Commands](./commands)
+
+## Table of contents
+
+<toc />
