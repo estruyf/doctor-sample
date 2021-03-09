@@ -121,6 +121,5 @@ Write here the Doctor page content.
   - [Page Creation](.)
   - [Commands](./commands)
 
-## Table of contents
 
-<toc />
+<toc title="Table of contents" position="right" />

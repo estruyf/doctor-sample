@@ -98,3 +98,6 @@ The menu property can contain a `QuickLaunch` and/or `TopNavigationBar` elment w
   - [Installation](./installation)
   - [Page Creation](./page-creation)
   - [Commands](./commands)
+
+
+  <toc />
