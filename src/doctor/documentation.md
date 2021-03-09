@@ -10,7 +10,6 @@ menu:
   QuickLaunch:
     name: Documentation
     id: documentation
-    weight: 1
     parent: doctor
 ---
 

@@ -9,7 +9,6 @@ metadata:
 menu:
   QuickLaunch:
     id: page-creation
-    weight: 2
     parent: doctor/documentation
 ---
 

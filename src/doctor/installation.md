@@ -10,7 +10,6 @@ metadata:
 menu:
   QuickLaunch:
     id: installation
-    weight: 1
     parent: doctor/documentation
 ---
 

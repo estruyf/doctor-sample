@@ -6,7 +6,6 @@ draft: false
 menu:
   QuickLaunch:
     id: commands
-    weight: 3
     parent: doctor/documentation
 ---
 
