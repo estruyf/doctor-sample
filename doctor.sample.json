@@ -38,5 +38,13 @@
         "weight": 3
       }]
     }
+  },
+
+  "multilingual": {
+    "enableTranslations": true,
+    "languages": [
+      1043
+    ],
+    "overwriteTranslationsOnChange": true
   }
 }
