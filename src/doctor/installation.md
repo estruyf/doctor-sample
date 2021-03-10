@@ -7,6 +7,9 @@ metadata:
   Category: "Choice 1"
   SingleLineText: "Choice 1"
 
+localization: 
+  "nl-nl": ./installation.nl.lang.md
+
 menu:
   QuickLaunch:
     id: installation

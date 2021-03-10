@@ -4,6 +4,9 @@ slug: home.aspx
 layout: Article
 description: "The Doctor documentation homepage"
 
+localization: 
+  "nl-nl": ./home.nl.lang.md
+
 author: 5
 
 comments: true
@@ -25,7 +28,7 @@ menu:
 
 <p id="logo" style="text-align:center"><img style="height:200px" src="./assets/doctor.png" alt="Doctor" /></p>
 
-## Maintain your documenation on SharePoint without pain
+## Maintain your documentation on SharePoint without pain
 
 Welcome to the static page created by `Doctor`!
 

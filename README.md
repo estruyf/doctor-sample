@@ -6,7 +6,7 @@
 
 <h2 align="center">Doctor Sample Project</h2>
 
-This is a sample project to show how [doctor](https://github.com/estruyf/doctor) can be used.
+This is a sample project to show how [doctor](https://getdoctor.io) can be used.
 
 ## Usage
 
