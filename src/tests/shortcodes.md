@@ -49,6 +49,8 @@ The shortcode snippets look like this:
 
 <callout type="tip" title="Override the title">Tip content with a custom title</callout>
 
+<callout type="tip" title="Custom background and foreground color" bgColor="#462749" fgColor="#FDECEF">A callout to test the background and foreground colors.</callout>
+
 The shortcode snippets look like this:
 
 ```html
@@ -63,6 +65,8 @@ The shortcode snippets look like this:
 <callout type="danger">The danger content</callout>
 
 <callout type="tip" title="Override the title">Tip content with a custom title</callout>
+
+<callout type="tip" title="Custom background and foreground color" bgColor="#462749" fgColor="#FDECEF">A callout to test the background and foreground colors.</callout>
 ```
 
 ## Custom
