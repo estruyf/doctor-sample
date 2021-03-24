@@ -45,6 +45,11 @@
     "languages": [
       1043
     ],
-    "overwriteTranslationsOnChange": true
+    "overwriteTranslationsOnChange": true,
+    "translator": {
+      "key": "",
+      "endpoint": "https://api.cognitive.microsofttranslator.com/",
+      "region": "westeurope"
+    }
   }
 }
