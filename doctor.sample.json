@@ -8,6 +8,8 @@
   "username": "<username>",
   "password": "<password>",
 
+  "disableComments": false,
+
   "markdown": {
     "allowHtml": true,
     "theme": "Light",
