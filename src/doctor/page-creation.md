@@ -6,6 +6,9 @@ metadata:
   Category: "Choice 2"
   SingleLineText: "Choice 2"
 
+localization: 
+  "nl-nl": 
+
 menu:
   QuickLaunch:
     id: page-creation
