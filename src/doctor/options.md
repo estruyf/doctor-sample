@@ -24,36 +24,28 @@ Options are specified via command arguments, or within a `doctor.json` file (aut
 `-a, --auth <auth>`
 : Specify the authentication type to use. Values can be `deviceCode` (default) or `password`.
 
-
 `--username`
 : When using `password` authentication, you need to pass the `username` and `password`.
-
 
 `--password`
 : When using `password` authentication, you need to pass the `username` and `password`.
 
-
 `-f, --folder <folder>`
 : The folder location in where you will create your markdown files.
-
 
 `-u, --url <url>`
 : The URL of the site collection to use.
 
-
 `--library`
 : Specified the library which you want to use in SharePoint to store your referenced images.
-
 
 `--webPartTitle`
 : This defined the title of the markdown web part to be created/updated on the page. Default value is: `doctor-placeholder`.
 
-> **Important**: if you would change this value, be sure to keep this in the `doctor.json` file. 
-
+> **Important**: if you would change this value, be sure to keep this in the `doctor.json` file.
 
 `--overwriteImages`
 : Specifies if you allow `doctor` to overwrite the images in the SharePoint library that are referenced in the markdown files.
-
 
 `--skipPrecheck`
 : Skips the pre-checks when running the commands. This validates if you have the right dependencies installed in your environment.
@@ -99,5 +91,4 @@ The menu property can contain a `QuickLaunch` and/or `TopNavigationBar` elment w
   - [Page Creation](./page-creation)
   - [Commands](./commands)
 
-
-<toc />
+<toc title="Table of contents" position="right" />

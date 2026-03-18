@@ -1,4 +1,3 @@
-
 module.exports = {
   name: "sample",
   render: (attributes, html) => {
