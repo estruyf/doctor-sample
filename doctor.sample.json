@@ -1,12 +1,14 @@
 {
-  "$schema": "https://raw.githubusercontent.com/estruyf/doctor/dev/schema/1.2.0.json",
+  "$schema": "https://raw.githubusercontent.com/estruyf/doctor/dev/schema/2.0.0.json",
   "folder": "./src",
   "url": "https://<tenant>.sharepoint.com/sites/<site>",
   "library": "Shared Documents",
 
-  "auth": "password",
-  "username": "<username>",
+  "auth": "certificate",
+  "certificateBase64Encoded": "<certificateBase64Encoded>",
   "password": "<password>",
+  "appId": "<appId>",
+  "tenant": "<tenantId>",
 
   "disableComments": false,
 
@@ -17,8 +19,6 @@
   },
 
   "siteDesign": {
-    "logo": "./src/assets/doctor.png",
-    "theme": "Red",
     "chrome": {
       "headerLayout": "Compact",
       "headerEmphasis": "Dark"
@@ -27,26 +27,26 @@
 
   "menu": {
     "QuickLaunch": {
-      "items": [{
-        "id": "doctor",
-        "name": "Doctor",
-        "url": "",
-        "weight": 2
-      },
-      {
-        "id": "tests",
-        "name": "Test pages",
-        "url": "",
-        "weight": 3
-      }]
+      "items": [
+        {
+          "id": "doctor",
+          "name": "Doctor",
+          "url": "",
+          "weight": 2
+        },
+        {
+          "id": "tests",
+          "name": "Test pages",
+          "url": "",
+          "weight": 3
+        }
+      ]
     }
   },
 
   "multilingual": {
     "enableTranslations": true,
-    "languages": [
-      1043
-    ],
+    "languages": [1043],
     "overwriteTranslationsOnChange": true,
     "translator": {
       "key": "",
