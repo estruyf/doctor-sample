@@ -18,8 +18,6 @@
   },
 
   "siteDesign": {
-    "logo": "./src/assets/doctor.png",
-    "theme": "Red",
     "chrome": {
       "headerLayout": "Compact",
       "headerEmphasis": "Dark"
