@@ -1,12 +1,13 @@
 {
-  "$schema": "https://raw.githubusercontent.com/estruyf/doctor/dev/schema/1.2.0.json",
+  "$schema": "https://raw.githubusercontent.com/estruyf/doctor/dev/schema/2.0.0.json",
   "folder": "./src",
   "url": "https://<tenant>.sharepoint.com/sites/<site>",
   "library": "Shared Documents",
 
-  "auth": "password",
-  "username": "<username>",
-  "password": "<password>",
+  "appId": "<appId>",
+  "tenantId": "<tenantId>",
+  "certificate": "<certificate or certificateBase64Encoded>",
+  "password": "<password (optional)>",
 
   "disableComments": false,
 
@@ -27,26 +28,26 @@
 
   "menu": {
     "QuickLaunch": {
-      "items": [{
-        "id": "doctor",
-        "name": "Doctor",
-        "url": "",
-        "weight": 2
-      },
-      {
-        "id": "tests",
-        "name": "Test pages",
-        "url": "",
-        "weight": 3
-      }]
+      "items": [
+        {
+          "id": "doctor",
+          "name": "Doctor",
+          "url": "",
+          "weight": 2
+        },
+        {
+          "id": "tests",
+          "name": "Test pages",
+          "url": "",
+          "weight": 3
+        }
+      ]
     }
   },
 
   "multilingual": {
     "enableTranslations": true,
-    "languages": [
-      1043
-    ],
+    "languages": [1043],
     "overwriteTranslationsOnChange": true,
     "translator": {
       "key": "",
