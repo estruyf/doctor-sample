@@ -4,11 +4,10 @@
   "url": "https://<tenant>.sharepoint.com/sites/<site>",
   "library": "Shared Documents",
 
-  "auth": "certificate",
-  "certificateBase64Encoded": "<certificateBase64Encoded>",
-  "password": "<password>",
   "appId": "<appId>",
-  "tenant": "<tenantId>",
+  "tenantId": "<tenantId>",
+  "certificate": "<certificate or certificateBase64Encoded>",
+  "password": "<password (optional)>",
 
   "disableComments": false,
 

@@ -6,3 +6,7 @@ test
 temp
 
 *.machinetranslated.md
+
+*.pem
+*.pfx
+*.key
