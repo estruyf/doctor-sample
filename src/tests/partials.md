@@ -14,18 +14,21 @@ Partials are markdown snippets which live in the `partials` folder, and get adde
 
 ## Automatically added partials
 
-The `doctor.json` file of this sample configures the navigation as the footer of every page:
+The `doctor.json` file of this sample adds a banner at the top and the navigation at the bottom of every page:
 
 ```json
 {
   "partials": {
     "folder": "./partials",
+    "header": "banner",
     "footer": "navigation"
   }
 }
 ```
 
-Pages which do not want it can opt out in their front matter:
+The note above this page its title is the `header` partial, the navigation below is the `footer` one.
+
+Pages which do not want them can opt out in their front matter, which the [No partials](./no-partials) page does:
 
 ```markdown
 ---

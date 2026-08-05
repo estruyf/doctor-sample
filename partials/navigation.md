@@ -10,6 +10,7 @@
 - Test pages
   - [Codeblocks](/tests/codeblocks)
   - [Extended Markdown](/tests/extended-markdown)
+  - [No Partials](/tests/no-partials)
   - [Partials](/tests/partials)
   - [Shortcodes](/tests/shortcodes)
   - [Special Characters](/tests/special-characters)

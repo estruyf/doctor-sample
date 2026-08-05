@@ -1,0 +1,1 @@
+<callout type="note">This page is published with <a href="https://getdoctor.io">Doctor</a>. Edit the markdown in the sources instead of the SharePoint page, or your changes are overwritten on the next run!</callout>

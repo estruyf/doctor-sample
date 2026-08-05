@@ -20,6 +20,7 @@
 
   "partials": {
     "folder": "./partials",
+    "header": "banner",
     "footer": "navigation"
   },
 
