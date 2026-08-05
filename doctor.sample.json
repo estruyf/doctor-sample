@@ -52,7 +52,7 @@
 
   "multilingual": {
     "enableTranslations": true,
-    "languages": [1043],
+    "languages": ["nl-nl", "fr-fr", "es-es"],
     "overwriteTranslationsOnChange": true,
     "translator": {
       "key": "",

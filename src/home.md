@@ -6,6 +6,8 @@ description: "The Doctor documentation homepage"
 
 localization: 
   "nl-nl": ./home.nl.lang.md
+  "fr-fr": 
+  "es-es":
 
 author: 5
 
