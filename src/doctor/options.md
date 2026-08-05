@@ -90,5 +90,11 @@ The menu property can contain a `QuickLaunch` and/or `TopNavigationBar` elment w
   - [Installation](./installation)
   - [Page Creation](./page-creation)
   - [Commands](./commands)
+  - [Table of Contents](./tableOfContents)
+- Test pages
+  - [Codeblocks](../tests/codeblocks)
+  - [Extended Markdown](../tests/extended-markdown)
+  - [Shortcodes](../tests/shortcodes)
+  - [Special Characters](../tests/special-characters)
 
 <toc title="Table of contents" position="right" />

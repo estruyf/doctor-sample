@@ -35,3 +35,9 @@ Under the hood, it makes use of the [CLI for Microsoft 365](https://pnp.github.i
   - [Installation](./installation)
   - [Page Creation](./page-creation)
   - [Commands](./commands)
+  - [Table of Contents](./tableOfContents)
+- Test pages
+  - [Codeblocks](../tests/codeblocks)
+  - [Extended Markdown](../tests/extended-markdown)
+  - [Shortcodes](../tests/shortcodes)
+  - [Special Characters](../tests/special-characters)

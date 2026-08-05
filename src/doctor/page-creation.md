@@ -123,6 +123,12 @@ Write here the Doctor page content.
   - [Installation](./installation)
   - [Page Creation](.)
   - [Commands](./commands)
+  - [Table of Contents](./tableOfContents)
+- Test pages
+  - [Codeblocks](../tests/codeblocks)
+  - [Extended Markdown](../tests/extended-markdown)
+  - [Shortcodes](../tests/shortcodes)
+  - [Special Characters](../tests/special-characters)
 
 
 <toc title="Table of contents" position="right" />

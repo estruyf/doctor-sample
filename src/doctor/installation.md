@@ -42,3 +42,9 @@ To quickly get started, we provided a [sample repository](https://github.com/est
   - [Installation](.)
   - [Page Creation](./page-creation)
   - [Commands](./commands)
+  - [Table of Contents](./tableOfContents)
+- Test pages
+  - [Codeblocks](../tests/codeblocks)
+  - [Extended Markdown](../tests/extended-markdown)
+  - [Shortcodes](../tests/shortcodes)
+  - [Special Characters](../tests/special-characters)

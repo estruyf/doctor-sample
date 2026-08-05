@@ -16,8 +16,14 @@ Welkom op de statische pagina gemaakt door `Doctor`!
 ## Navigatie
 
 - [Home](.)
-- [Documentation](./doctor/documentation.md)
-  - [Options](./doctor/options)
-  - [Installation](./doctor/installation)
-  - [Page Creation](./doctor/page-creation)
-  - [Commands](./doctor/commands)
+- [Documentatie](./doctor/documentation)
+  - [Opties](./doctor/options)
+  - [Installatie](./doctor/installation)
+  - [Pagina-creatie](./doctor/page-creation)
+  - [Commando's](./doctor/commands)
+  - [Inhoudsopgave](./doctor/tableOfContents)
+- Testpagina's
+  - [Codeblokken](./tests/codeblocks)
+  - [Uitgebreide markdown](./tests/extended-markdown)
+  - [Shortcodes](./tests/shortcodes)
+  - [Speciale tekens](./tests/special-characters)

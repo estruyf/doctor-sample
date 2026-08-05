@@ -65,3 +65,9 @@ doctor publish --url https://<tenant>.sharepoint.com/sites/<documentation>
   - [Installation](./installation)
   - [Page Creation](./page-creation)
   - [Commands](.)
+  - [Table of Contents](./tableOfContents)
+- Test pages
+  - [Codeblocks](../tests/codeblocks)
+  - [Extended Markdown](../tests/extended-markdown)
+  - [Shortcodes](../tests/shortcodes)
+  - [Special Characters](../tests/special-characters)
