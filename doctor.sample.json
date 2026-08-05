@@ -18,6 +18,11 @@
     "extended": true
   },
 
+  "partials": {
+    "folder": "./partials",
+    "footer": "navigation"
+  },
+
   "siteDesign": {
     "chrome": {
       "headerLayout": "Compact",

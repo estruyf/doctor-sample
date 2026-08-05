@@ -33,18 +33,3 @@ menu:
 Welcome to the static page created by `Doctor`!
 
 ![Running doctor](./assets/doctor1.png)
-
-## Navigation
-
-- [Home](.)
-- [Documentation](./doctor/documentation)
-  - [Options](./doctor/options)
-  - [Installation](./doctor/installation)
-  - [Page Creation](./doctor/page-creation)
-  - [Commands](./doctor/commands)
-  - [Table of Contents](./doctor/tableOfContents)
-- Test pages
-  - [Codeblocks](./tests/codeblocks)
-  - [Extended Markdown](./tests/extended-markdown)
-  - [Shortcodes](./tests/shortcodes)
-  - [Special Characters](./tests/special-characters)

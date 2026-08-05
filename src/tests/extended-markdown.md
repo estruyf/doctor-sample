@@ -77,18 +77,3 @@ Doctor publishes your markdown files as SharePoint pages[^1].
 
 [^1]: The pages are created in the `SitePages` library of your site.
 [^state]: The publish state is stored in `Shared Documents/.doctor/state.json` by default.
-
-## Navigation
-
-- [Home](../home)
-- [Documentation](../doctor/documentation)
-  - [Options](../doctor/options)
-  - [Installation](../doctor/installation)
-  - [Page Creation](../doctor/page-creation)
-  - [Commands](../doctor/commands)
-  - [Table of Contents](../doctor/tableOfContents)
-- Test pages
-  - [Codeblocks](./codeblocks)
-  - [Extended Markdown](.)
-  - [Shortcodes](./shortcodes)
-  - [Special Characters](./special-characters)

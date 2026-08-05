@@ -87,18 +87,3 @@ module.exports = {
   }
 };
 ```
-
-## Navigation
-
-- [Home](../home)
-- [Documentation](../doctor/documentation)
-  - [Options](../doctor/options)
-  - [Installation](../doctor/installation)
-  - [Page Creation](../doctor/page-creation)
-  - [Commands](../doctor/commands)
-  - [Table of Contents](../doctor/tableOfContents)
-- Test pages
-  - [Codeblocks](./codeblocks)
-  - [Extended Markdown](./extended-markdown)
-  - [Shortcodes](.)
-  - [Special Characters](./special-characters)

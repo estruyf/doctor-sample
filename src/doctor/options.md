@@ -82,19 +82,4 @@ The menu property can contain a `QuickLaunch` and/or `TopNavigationBar` elment w
 
 > **Important**: If you specify arguments during command execution, they will be used instead of the values defined in the `doctor.json` file.
 
-## Navigation
-
-- [Home](../home)
-- [Documentation](./documentation)
-  - [Options](.)
-  - [Installation](./installation)
-  - [Page Creation](./page-creation)
-  - [Commands](./commands)
-  - [Table of Contents](./tableOfContents)
-- Test pages
-  - [Codeblocks](../tests/codeblocks)
-  - [Extended Markdown](../tests/extended-markdown)
-  - [Shortcodes](../tests/shortcodes)
-  - [Special Characters](../tests/special-characters)
-
 <toc title="Table of contents" position="right" />
