@@ -115,14 +115,4 @@ menu:
 Write here the Doctor page content.
 ```
 
-## Navigation
-
-- [Home](../home)
-- [Documentation](./documentation)
-  - [Options](./options)
-  - [Installation](./installation)
-  - [Page Creation](.)
-  - [Commands](./commands)
-
-
 <toc title="Table of contents" position="right" />

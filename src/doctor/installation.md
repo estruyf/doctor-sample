@@ -33,12 +33,3 @@ yarn global add @estruyf/doctor
 ```
 
 To quickly get started, we provided a [sample repository](https://github.com/estruyf/doctor-sample) which allows you to test out all the functionalities of `Doctor`.
-
-## Navigation
-
-- [Home](../home)
-- [Documentation](./documentation)
-  - [Options](./options)
-  - [Installation](.)
-  - [Page Creation](./page-creation)
-  - [Commands](./commands)

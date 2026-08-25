@@ -6,10 +6,16 @@ description: "The Doctor documentation homepage"
 
 localization: 
   "nl-nl": ./home.nl.lang.md
+  "fr-fr": 
+  "es-es":
 
 author: 5
 
 comments: true
+
+# The logo below is the hero of this page, so the banner partial is skipped
+partials:
+  header: false
 
 header:
   type: Custom
@@ -33,12 +39,3 @@ menu:
 Welcome to the static page created by `Doctor`!
 
 ![Running doctor](./assets/doctor1.png)
-
-## Navigation
-
-- [Home](.)
-- [Documentation](./doctor/documentation.md)
-  - [Options](./doctor/options)
-  - [Installation](./doctor/installation)
-  - [Page Creation](./doctor/page-creation)
-  - [Commands](./doctor/commands)

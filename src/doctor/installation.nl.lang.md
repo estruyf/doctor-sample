@@ -37,3 +37,9 @@ Om snel aan de slag te gaan, hebben we een [sample repository](https://github.co
   - [Installatie](.)
   - [Pagina-creatie](./page-creation)
   - [Commando's](./commands)
+  - [Inhoudsopgave](./tableOfContents)
+- Testpagina's
+  - [Codeblokken](../tests/codeblocks)
+  - [Uitgebreide markdown](../tests/extended-markdown)
+  - [Shortcodes](../tests/shortcodes)
+  - [Speciale tekens](../tests/special-characters)

@@ -26,12 +26,3 @@ As we understand that it is not the best experience for developers to write docu
 Under the hood, it makes use of the [CLI for Microsoft 365](https://pnp.github.io/cli-microsoft365/).
 
 > Today `doctor` is maintained by `Elio Struyf`.
-
-## Navigation
-
-- [Home](../home)
-- [Documentation](.)
-  - [Options](./options)
-  - [Installation](./installation)
-  - [Page Creation](./page-creation)
-  - [Commands](./commands)
