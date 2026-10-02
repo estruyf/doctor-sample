@@ -5,9 +5,8 @@
   "library": "Shared Documents",
 
   "appId": "<appId>",
-  "tenantId": "<tenantId>",
-  "certificate": "<certificate or certificateBase64Encoded>",
-  "password": "<password (optional)>",
+  "tenant": "<tenantId>",
+  "certificate": "<path to your .pfx file, or its base64 encoded contents>",
 
   "disableComments": false,
 
