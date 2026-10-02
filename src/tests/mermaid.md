@@ -44,10 +44,10 @@ sequenceDiagram
     Note over D,S: the page is published &lt;br/&gt; after its metadata
 </mermaid>
 
-## A diagram doctor cannot draw
+## A mindmap
 
-A `mindmap` needs a real browser, so `doctor` leaves it to SharePoint's own Mermaid support and
-reports it as a warning during the publish.
+Mindmaps can be added too. `doctor` draws them during the publish like the other diagrams, with
+each label centred on its node, whatever shape that node has.
 
 <mermaid>
 mindmap
