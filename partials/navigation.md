@@ -14,3 +14,8 @@
   - [Partials](/tests/partials)
   - [Shortcodes](/tests/shortcodes)
   - [Special Characters](/tests/special-characters)
+  - [Metadata](/tests/metadata)
+  - [Web part shortcodes](/tests/webpart-shortcodes)
+  - [Mermaid](/tests/mermaid)
+  - [Page template](/tests/page-template)
+  - [What's new](/tests/whats-new)
