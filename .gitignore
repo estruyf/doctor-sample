@@ -10,3 +10,4 @@ temp
 *.pem
 *.pfx
 *.key
+*.b64
