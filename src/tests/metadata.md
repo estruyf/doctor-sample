@@ -6,7 +6,7 @@ description: "Every column type doctor can set, on one page"
 # The author is SharePoint's own Author column. A site user id (a number) works
 # too — see home.md — and so does a principal name, which doctor resolves first.
 # Replace it with a user of your tenant.
-author: "adele.vance@contoso.onmicrosoft.com"
+author: "admin@struyfconsultingdev.onmicrosoft.com"
 
 # Each of these needs a column on the Site Pages library — the README lists them,
 # with the settings to create them with. A column which does not exist skips the
@@ -37,10 +37,10 @@ metadata:
 
   # Lookup to Site Pages, single and multiple — item ids. 1 and 2 exist on most
   # sites; use the ids of two pages of yours if not
-  DocParent: 1
+  DocParent: 9576
   DocRelated:
-    - 1
-    - 2
+    - 9576
+    - 9579
 
   # Hyperlink, with a description
   DocSource:
@@ -48,10 +48,10 @@ metadata:
     description: "doctor on GitHub"
 
   # Person, single and multiple — principal names of your tenant. Replace them.
-  DocOwner: "adele.vance@contoso.onmicrosoft.com"
+  DocOwner: "admin@struyfconsultingdev.onmicrosoft.com"
   DocReviewers:
-    - "adele.vance@contoso.onmicrosoft.com"
-    - "alex.wilber@contoso.onmicrosoft.com"
+    - "admin@struyfconsultingdev.onmicrosoft.com"
+    - "alexandra@struyfconsultingdev.onmicrosoft.com"
 
   # Managed metadata, single: "HR" is a synonym of "Human Resources", so this
   # also checks that a term can be written by any of its labels
