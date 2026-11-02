@@ -21,7 +21,7 @@ metadata:
   # One readable entry and one which is not an item id: the column is reported,
   # not written with the one that could be read
   DocRelated:
-    - 1
+    - 9576
     - "not-an-id"
 
   # Not a real day
